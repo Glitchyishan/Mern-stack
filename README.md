@@ -1,3 +1,3 @@
 # Mern-stack
-learning mern stack
-Simple html resume project without using css or js.
+High school grad not into college yet but strating my coding journey towards full stack developer.
+Sharing my first html project.
