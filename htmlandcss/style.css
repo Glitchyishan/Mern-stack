@@ -1,0 +1,22 @@
+.box{
+    background-color: beige;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    transition-duration: 3s;
+    transition-property:all ;
+    transition-timing-function: ease-in-out;
+    transition-delay: 1s;
+}
+.box:hover{
+    background-color: crimson;
+    width:400px;
+    height:400px
+}
+p{
+    font-size: 18px;
+}
